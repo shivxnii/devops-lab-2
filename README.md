@@ -1,5 +1,4 @@
 # devops-lab-2
-
 ENSP461 - DevOps and Automation, Lab 2: Containerization & Kubernetes Orchestration.
 
 The same Flask application from Lab 1 is containerized with Docker, deployed on a
